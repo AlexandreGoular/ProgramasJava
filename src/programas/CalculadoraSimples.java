@@ -1,4 +1,4 @@
-package programas; // Renomeie o pacote para evitar conflitos com pacotes do Java
+package programas;
 
 import java.util.Locale;
 import java.util.Scanner;
